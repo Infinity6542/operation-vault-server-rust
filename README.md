@@ -4,4 +4,4 @@ This is a port of the [Operation Vault](https://github.com/Infinity6542/Operatio
 - Backup storage and fetching from any S3-compatible storage (currently my Cloudflare R2 bucket is hardcoded)
 - Basically everything that the Go server can do
 
-It's not really stable and there are some weird things that have to be ironed out, probably because Go and Rust aren't that similar.
+It's not really stable and there are some weird things that have to be ironed out, probably because Go and Rust aren't that similar. The server is hosted on Railway at [operation-vault-server-rust-production.up.railway.app](operation-vault-server-rust-production.up.railway.app). Please contact me for the cert hash.
