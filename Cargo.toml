@@ -2,6 +2,7 @@
 name = "opvault-server-rust"
 version = "0.0.1"
 edition = "2024"
+rust-version = "1.94.0"
 
 [dependencies]
 anyhow = "1.0.102"
